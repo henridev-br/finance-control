@@ -1,5 +1,6 @@
 # Finance Control
 App para controlar finanças.
+
 App to control finances
 
 # Tecnologias / Technologies
@@ -7,4 +8,5 @@ App to control finances
 
 # Status
 Em desenvolvimento
+
 Work in progress
