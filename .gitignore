@@ -1,0 +1,14 @@
+# ambiente virtual
+.venv/
+
+# cache do python
+__pycache__/
+*.py[cod]
+
+# arquivos de ambiente e senha
+.env
+.env.*
+
+# sql lite 
+*.db
+*.sqlite3
